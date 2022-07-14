@@ -1,7 +1,7 @@
-<?php include 'include/Acciones.php';  
+<?php include 'include/Acciones.php';
 error_reporting(0); ?>
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es"> 
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
